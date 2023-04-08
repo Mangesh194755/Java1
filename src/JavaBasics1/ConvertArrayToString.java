@@ -11,6 +11,8 @@ public class ConvertArrayToString {
 
 		// using Arrays.toString()
 		System.out.println(Arrays.toString(stringArray));
+		
+		
 
 		// using StringBuilder.append()
 		StringBuilder stringBuilder = new StringBuilder();
